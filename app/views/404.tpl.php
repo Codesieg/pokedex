@@ -1,0 +1,1 @@
+<p class="bg-danger text-white fs-1 fw-4"> 404</p>
